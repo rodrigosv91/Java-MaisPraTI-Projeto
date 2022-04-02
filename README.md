@@ -15,7 +15,7 @@
 
 ## Descrição
 
-Criar um CRUD (Create, Read, Update, Delete) de pessoas/alunos no terminal usando somente Java:
+###### Criar um CRUD (Create, Read, Update, Delete) de pessoas/alunos no terminal usando somente Java:
 
 - Deve possuir as funcionalidades:
     - [x]  Criar pessoa ou aluno
@@ -25,12 +25,12 @@ Criar um CRUD (Create, Read, Update, Delete) de pessoas/alunos no terminal usand
     - [x]  Encerrar programa
 
 - Informações de uma pessoa/aluno:
-    - :smiley: Nome
-    - :phone: Telefone 
-    - :date: Data de nascimento
-    - :date: Data de cadastro da pessoa
-    - :date: Data da ultima alteração
-    - :books: Nota final do curso
+    - Nome
+    - Telefone 
+    - Data de nascimento
+    - Data de cadastro da pessoa
+    - Data da ultima alteração
+    - Nota final do curso
 
 #### Detalhamento:
 
