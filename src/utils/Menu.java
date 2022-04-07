@@ -31,7 +31,6 @@ public class Menu {
         switch(opcao){
             case 0:
                 System.out.println("\nEncerrando...");
-                //Thread.sleep(1000);
                 break;
             case 1:
                 cadastrar(); 
